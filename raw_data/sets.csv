@@ -6242,19 +6242,19 @@ set_num,name,year,theme_id,num_parts
 43106-1,Unicorn DJ BeatBox,2021,713,70
 43107-1,Hiphop Robot BeatBox,2021,713,59
 43108-0,Bandmates  Series 2 - Random Box,2021,713,0
-43108-1,Bandmates Series 2 #1,2021,713,0
-43108-10,Bandmates Series 2 #10,2021,713,0
-43108-11,Bandmates Series 2 #11,2021,713,0
-43108-12,Bandmates Series 2 #12,2021,713,0
+43108-1,Alien Dancer,2021,713,10
+43108-10,Carnival Dancer,2021,713,5
+43108-11,Vampire Bassist,2021,713,5
+43108-12,Zombie Dancer,2021,713,5
 43108-13,Bandmates  Series 2 - Complete,2021,713,0
-43108-2,Bandmates Series 2 #2,2021,713,0
-43108-3,Bandmates Series 2 #3,2021,713,0
-43108-4,Bandmates Series 2 #4,2021,713,0
-43108-5,Bandmates Series 2 #5,2021,713,0
-43108-6,Bandmates Series 2 #6,2021,713,0
-43108-7,Bandmates Series 2 #7,2021,713,0
-43108-8,Bandmates Series 2 #8,2021,713,0
-43108-9,Bandmates Series 2 #9,2021,713,0
+43108-2,Discowgirl Guitarist,2021,713,11
+43108-3,DJ Rasp-Beary,2021,713,7
+43108-4,Dragon Guitarist,2021,713,11
+43108-5,Karaoke Mermaid,2021,713,10
+43108-6,DJ Captain,2021,713,9
+43108-7,Puppy Singer,2021,713,9
+43108-8,DJ Beatbox,2021,713,4
+43108-9,Slime Singer,2021,713,6
 43109-1,Metal Dragon BeatBox,2021,713,72
 431-1,Gas Station (The Building Toy),1966,371,13
 43110-1,Folk Fairy BeatBox,2021,713,75
@@ -8134,7 +8134,7 @@ set_num,name,year,theme_id,num_parts
 5006771-1,VIDIYO Sticker Sheet,2021,501,2
 5006772-1,VIDIYO VIP Welcome Pack,2021,501,2
 5006786-1,ETDM Concept Art,2021,501,0
-5006787-1,Punk Pirate Concept Art,2021,501,0
+5006787-1,Pirate Punk Concept Art,2021,501,0
 5006788-1,TROPICON Concept Art,2021,501,0
 5006789-1,Robo HIP HOP Concept Art,2021,501,0
 5006790-1,K-PAWP Concept Art,2021,501,0
@@ -9436,7 +9436,7 @@ set_num,name,year,theme_id,num_parts
 60291-1,Family House,2021,52,388
 60292-1,Town Center,2021,52,791
 60293-1,Stunt Park,2021,52,170
-60294-1,Stunt Show Truck,2021,52,418
+60294-1,Stunt Show Truck,2021,52,419
 60295-1,Stunt Show Arena,2021,52,667
 60296-1,Wheelie Stunt Bike,2021,52,14
 60297-1,Demolition Stunt Bike,2021,52,12
@@ -11997,7 +11997,7 @@ set_num,name,year,theme_id,num_parts
 71308-1,Tahu Uniter of Fire,2016,324,132
 71309-1,Onua Uniter of Earth,2016,324,143
 71310-1,Umarak the Hunter,2016,324,172
-7131-1,Anakin's Podracer,1999,158,136
+7131-1,Anakin's Podracer,1999,158,115
 71311-1,Kopaka and Melum - Unity set,2016,324,171
 71312-1,Ekimu the Mask Maker,2016,324,94
 71313-1,Lava Beast,2016,324,114
