@@ -1,0 +1,3 @@
+10-6= Busy
+10-4= Ack
+10-2= Signal Good
