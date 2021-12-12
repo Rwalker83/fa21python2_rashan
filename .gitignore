@@ -1,3 +1,5 @@
 .ipynb_checkpoints/
 projects/json/json_files/data/*.json
 projects/json/json_files/search/search.json
+*.csv
+*.csv.gz
